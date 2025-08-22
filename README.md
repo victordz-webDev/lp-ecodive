@@ -1,13 +1,45 @@
-# Landing page ecodive
+# 🌊 EcoDive - Landing Page
 
-## Link para o GitPages do Projeto:
+Bem-vindo ao repositório da **EcoDive**, uma landing page desenvolvida para destacar tecnologia, design e boas práticas de desenvolvimento web.
 
-[GitPages](https://victordz-webdev.github.io/lp-ecodive/)
+## 🚀 Tecnologias Utilizadas
 
-## O projeto
+- **HTML5** → Estrutura semântica da aplicação  
+- **CSS3** → Estilização base e responsividade  
+- **SCSS** → Organização modular e reaproveitamento de estilos  
+- **JavaScript (JS)** → Interatividade e dinamismo da página  
 
-A landing page foi criada para divulgar e explicar a ecodive, um projeto criado para o trabalho semestral da faculdade de engenharia de software da FIAP.
+## 🎨 Conceitos Aplicados
 
-## Ferramentas
+- Design moderno e atrativo  
+- Responsividade para diferentes dispositivos  
+- Boas práticas de UX/UI  
+- Organização de arquivos por páginas, estilos e scripts  
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+## 📂 Estrutura do Projeto
+
+```
+lp-ecodive-main/
+│── index.html          # Página principal
+│── pages/              # Páginas adicionais (ex: login)
+│── styles/             # Estilos CSS/SCSS
+│── scripts/            # Scripts JavaScript
+│── images/             # Imagens e assets
+│── LICENSE             # Licença
+```
+
+## 💡 Funcionalidades
+
+- Página inicial com destaque para benefícios  
+- Carrossel de imagens ilustrativas  
+- Página de login estilizada  
+- Scripts para interações dinâmicas  
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT.  
+Sinta-se livre para usar, modificar e compartilhar!
+
+---
+
+✨ Desenvolvido com foco em **responsividade**, **design limpo** e **boas práticas de desenvolvimento**.
