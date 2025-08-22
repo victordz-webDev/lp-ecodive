@@ -1,7 +1,8 @@
 # Landing page ecodive
+
 ## Link para o GitPages do Projeto:
-Login padrão: usuario / Senha padrão: senha123\
-https://victordz-dev.github.io/landing-page-ecodive/
+
+[GitPages](https://victordz-webdev.github.io/lp-ecodive/)
 
 ## O projeto
 
